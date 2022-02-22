@@ -4,7 +4,9 @@
 
 
 
-## Snapshots
+# Snapshots
+
+### REACTJS FRONTEND
 
 ![11](https://user-images.githubusercontent.com/25785435/155195023-3324e88a-50bd-4d0a-8ff9-6be334ec23d6.PNG)
 
@@ -15,8 +17,7 @@
 ![ss6](https://user-images.githubusercontent.com/25785435/155195052-b77db17e-e294-4aab-9759-ca42f624f73e.PNG)
 
 
-
-SPRING BACKEND
+### SPRING BACKEND
 
 ![ss1](https://user-images.githubusercontent.com/25785435/155194410-fed30ebf-5403-449b-b467-8f32229787df.PNG)
 
